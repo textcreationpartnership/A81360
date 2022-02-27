@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the Round-head and rattle-head.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81360</idno>
+            <idno type="STC">Wing D1167A</idno>
+            <idno type="STC">Thomason E109_7</idno>
+            <idno type="STC">ESTC R7398</idno>
+            <idno type="EEBO-CITATION">99873128</idno>
+            <idno type="PROQUEST">99873128</idno>
+            <idno type="VID">125584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the Round-head and rattle-head.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Sweeting,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes wrongly attributed to John Taylor.</note>
+                  <note>Verse satire, praising the Puritans and ridiculing the Cavaliers.</note>
+                  <note>Annotation on Thomason copy: "August 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125584:1"/>
+            <pb facs="tcp:125584:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE ROUND-HEAD AND RATTLE-HEAD.</p>
+            <p>London Printed for <hi>J. Sweeting.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:125584:2"/>
+            <pb n="1" facs="tcp:125584:2"/>
+            <head>THE ROVND-HEAD.</head>
+            <lg>
+               <l n="1">1. HIs flaxen haire, his damask roſie cheeks,</l>
+               <l>His comely looks, unlike the ſurly Greeks,</l>
+               <l>His Star-like eyes, grave forehead, lovely chin,</l>
+               <l>Purtrayes the wiſdome which abides within.</l>
+            </lg>
+            <lg>
+               <l n="2">2. His haire cut round, he weares no Indian Lock,</l>
+               <l>His heart is ſound, he feares not <hi>Straffords</hi> Block:</l>
+               <l>His milk-white actions doe not ſeek the darke</l>
+               <l>Like Malignants, who hide themſelves at <hi>Yorke.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="3">3. God made heads round, what ever fellows prattle:</l>
+               <l>More knave then foole, whoſe head is made a rattle:</l>
+               <l>Round hath no corners, that is their hard hap,</l>
+               <l>That wiſeſt round-heads miſſe the Prelates Cap.</l>
+            </lg>
+            <lg>
+               <l n="4">4. Truth is round dealing, it hath no crochets,</l>
+               <l>The fowleſt hearts lies under faireſt Rochets:</l>
+               <l>Celeſtiall motion is of moſt perfection,</l>
+               <l>Heaven and the Round-heads move by one direction.</l>
+            </lg>
+            <lg>
+               <l n="5">5. Cambridge round Church skares the croſier Doctors,</l>
+               <l>As much as freſh-men feare the Bug-beare Proctors.</l>
+               <l>They propheſie that Church portends a loſſe,</l>
+               <l>If that the fabrick ſtand not like a Croſſe.</l>
+            </lg>
+            <lg>
+               <l n="6">6. Let ſons of harlots ſtill grave Round-heads ſcorne,</l>
+               <l>And ſuch whoſe wives have furniſht with a horne.</l>
+               <pb n="2" facs="tcp:125584:3"/>
+               <l>Such daring language makes not Round-heads worſe,</l>
+               <l>His credits ſafe, the danger is his purſe.</l>
+            </lg>
+            <lg>
+               <l n="7">7. Where's Law, Jeſtice, Mercy to be ſound?</l>
+               <l>Not in the Rattle, but in the head that's round;</l>
+               <l>He reades <hi>Luther, Calvin, Beza, Marter,</hi>
+               </l>
+               <l>He preacheth duly, Rattle once a quarter.</l>
+            </lg>
+            <lg>
+               <l n="8">8. He brings plate, coyne, horſe, and will ſtand his tackle,</l>
+               <l>Though Hare-braines buſtle, all will prove a Rattle.</l>
+               <l>Courage brave Round-head, and doe thou not feare</l>
+               <l>The ſwearing, roaring, whoring Cavalier.</l>
+            </lg>
+            <lg>
+               <l n="9">9. Monopolies, Ship-money, Innovations rent,</l>
+               <l>Did make us barren as the wild of Kent;</l>
+               <l>That they are downe, we doe with one conſent</l>
+               <l>Thanke the round dealing of the Parliament.</l>
+            </lg>
+            <lg>
+               <l n="10">10. We may remember the brave round Cap Scots,</l>
+               <l>Who helped much our noble Patriots,</l>
+               <l>Their courage we'll record, whilſt we remember,</l>
+               <l>Eightie eight, or the fift of November.</l>
+            </lg>
+            <lg>
+               <l n="11">11. Captaines are Round-heads, whoſe brave examples,</l>
+               <l>Have merited the garland to bewreath their temples:</l>
+               <l>Kings Dukes, Emperours, this is their renowne,</l>
+               <l>To have their Round heads veſted with a Crowne.</l>
+            </lg>
+            <lg>
+               <l n="12">12. Peace <hi>Momus</hi> dare no more the venture,</l>
+               <l>To blame the circle where God ſits in the Center,</l>
+               <l>For Round-head ſutes with Princes, wiſe men Peeres,</l>
+               <l>But Rattle ſuits with Prieſts, and naſty Cavaliers.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:125584:3"/>
+            <head>THE RATTLE-HEAD.</head>
+            <lg>
+               <l n="1">1. THe Rattle firſt was compos'd at <hi>Rome,</hi>
+               </l>
+               <l>Where Cardinals, Jeſuits, and Magicians come,</l>
+               <l>When they determin'd that which now they hope</l>
+               <l>To blaſt Religion and ſet up the Pope.</l>
+            </lg>
+            <lg>
+               <l n="2">2. This Goblin foule was fram'd by Magick ſpell,</l>
+               <l>Of braines of <hi>Loyala, Merlin, Machivell,</hi>
+               </l>
+               <l>Coapes, Croſſes, Cringings, and ſuch Romiſh Rites,</l>
+               <l>He taught our Prieſts this garbe of Jeſuites.</l>
+            </lg>
+            <lg>
+               <l n="3">3. Pryar <hi>Bacons</hi> Art took in this head, chiefe place,</l>
+               <l>That this is truth, behold his Brazen-face:</l>
+               <l>
+                  <hi>Pandora</hi> and her Nymphes did ſo diſpoſe,</l>
+               <l>At learned <hi>Oxford</hi> he ſhould leave his Noſe.</l>
+            </lg>
+            <lg>
+               <l n="4">4. And ſure it was ſome Policie of State,</l>
+               <l>To fixe this relicke on a Colledge gate;</l>
+               <l>A Paterne for the Cavaliers at Yorke.</l>
+               <l>That ſpoile their Coppernoſes in the darke.</l>
+            </lg>
+            <lg>
+               <l n="5">5. Part of their noſes to the femall kinde,</l>
+               <l>As pledges of their love, are left behind,</l>
+               <l>It alſo ſhewes that Schollers void of grace,</l>
+               <l>Are like an ugly noſe without a face.</l>
+            </lg>
+            <lg>
+               <l n="5">5. This <hi>Negroes</hi> errant was by common fame,</l>
+               <l>To raiſe warre and diſſention where he came,</l>
+               <pb n="4" facs="tcp:125584:4"/>
+               <l>Diſtinctions, equivocations, and ſuch things,</l>
+               <l>They charge him rattle in the eares of Kings.</l>
+            </lg>
+            <lg>
+               <l n="7">7. That they may neither heare, nor give conſents</l>
+               <l>To Votes or prayers of their Parliaments:</l>
+               <l>'Tis for their Honour, and portends their merits.</l>
+               <l>To cruſh their people, and to breake their ſpirits.</l>
+            </lg>
+            <lg>
+               <l n="8">8. Rattle is never greatly at a loſſe,</l>
+               <l>On plaineſt Lawes to caſt a Romiſh gloſſe:</l>
+               <l>The wholeſome Lawes of God, and of the Land,</l>
+               <l>Muſt meane no more then he doth underſtand.</l>
+            </lg>
+            <lg>
+               <l n="9">9. For thoſe faire reading Prieſts his Votes doe paſſe,</l>
+               <l>Who make our prayers but an Engliſh Maſſe:</l>
+               <l>Round dealing Preachers, and their godly Leſſons</l>
+               <l>He doth attend, as Thieves doe Size and Seſſions.</l>
+            </lg>
+            <lg>
+               <l n="10">10. His plots were ſpoiled, his heart began to faile</l>
+               <l>When new Oath and Canons could not prevaile,</l>
+               <l>His rotten Regiment among their pots,</l>
+               <l>Still drinke confuſion to the honeſt Scots.</l>
+            </lg>
+            <lg>
+               <l n="11">11. He gives them leave to raile and boaſt and ſwell,</l>
+               <l>And ſweare <hi>God damne them nine miles deepe in Hell:</hi>
+               </l>
+               <l>Such wretched Royſters God will ſure diſcard;</l>
+               <l>Unhappy Princes that have ſuch a Guard.</l>
+            </lg>
+            <lg>
+               <l n="12">12. The Weſteren Indians feare the Rattle Snake,</l>
+               <l>Whoſe venomous ſting few doe with life eſcape,</l>
+               <l>Unleſſe ſome Snake-weed there be neare at hand,</l>
+               <l>Which doth this poyſon mightily withſtand.</l>
+            </lg>
+            <pb n="5" facs="tcp:125584:4"/>
+            <lg>
+               <l n="13">13. In England lives the venomous Rattle-head,</l>
+               <l>Whoſe charming tongue doth ſtrike the Natives dead,</l>
+               <l>If Antidote of health wee'll not reſſent,</l>
+               <l>Apply'd us by the wiſer Parliament.</l>
+            </lg>
+            <lg>
+               <l n="14">14. The Lord of <hi>N. P.</hi> that brave Cavaliere,</l>
+               <l>
+                  <hi>Hulls</hi> ſounding Canons made to flie for feare:</l>
+               <l>In his great haſt befell a diſmall matter,</l>
+               <l>Hed fled the fire, and fell into the water.</l>
+            </lg>
+            <lg>
+               <l n="15">15. Both he and others found to their great griefe,</l>
+               <l>That fire and water gave them ſmall reliefe,</l>
+               <l>Had not his chiefeſt friend then beene his haire,</l>
+               <l>His Caveleiers had ſurely left him there.</l>
+            </lg>
+            <lg>
+               <l n="16">16. <hi>Don John</hi> of <hi>Yorke</hi> 'gainſt Round-Heads make com<g ref="char:EOLhyphen"/>plaint,</l>
+               <l>And bleſſeth Rattle as the onely Saint;</l>
+               <l>Good men the Prelates curſes many yeares</l>
+               <l>Have had, but now they bleſſe the Cavileeres.</l>
+            </lg>
+            <lg>
+               <l n="17">17. Their Proceſſe, Cenſures, and the cauſeleſſe curſes,</l>
+               <l>The common Picklocke was of beſt mens purſes;</l>
+               <l>Their pennileſſe bleſſings, if that they were true,</l>
+               <l>Would ſet Heaven open to a Helliſh crue.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:125584:5"/>
+            <head>Upon the Roaring Cavalier.</head>
+            <l>BLeſſe us! why here's a thing as like a man,</l>
+            <l>As Nature to our fancie faſhion can.</l>
+            <l>Beſhrew me, but he has a pretty face,</l>
+            <l>And weares his Rapier with indifferent grace.</l>
+            <l>Makes a neat congie, dances well, and ſweares:</l>
+            <l>And weares his Miſtreſſe pendant in his eares:</l>
+            <l>Has a neate foote as ever kiſt the ground,</l>
+            <l>His ſhoes and roſes coſt at leaſt five pound.</l>
+            <l>Thoſe hoſe have not a peere, for by relation,</l>
+            <l>They're cut a moneth at leaſt ſince the laſt faſhion.</l>
+            <l>He knowes two Ladies that will vow there's none</l>
+            <l>At Court, a man of parts, but he alone.</l>
+            <l>And yet this ſop, ſcarce ever learn'd to know</l>
+            <l>The mixture of the disjoyn'd Chriſt-croſſe row.</l>
+            <l>Strip off his ragges, and the poore thing is then</l>
+            <l>The juſt contempt of underſtanding men.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
